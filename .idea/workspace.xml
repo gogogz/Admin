@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d772ad7-1712-4210-98a8-6de2809280a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueadmin-vue/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueadmin-vue/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vueadmin-vue" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ff3viPl6M46dEXw7aNFAYFKEmI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d772ad7-1712-4210-98a8-6de2809280a6" name="Changes" comment="" />
+      <created>1664869545677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664869545677</updated>
+      <workItem from="1664869548088" duration="44000" />
+    </task>
+    <servers />
+  </component>
+</project>
