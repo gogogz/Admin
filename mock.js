@@ -1,5 +1,4 @@
 const Mock = require('mockjs')
-// 获取 mock.Random 对象
 // 参考：https://github.com/nuysoft/Mock/wiki/Mock.Random
 const Random = Mock.Random
 let Result = {
